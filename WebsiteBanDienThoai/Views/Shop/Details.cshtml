@@ -1,0 +1,99 @@
+﻿@model WebsiteBanDienThoai.Models.Entities.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<!-- Start Product Details Section -->
+<div class="product-details-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5 col-lg-6">
+                <div class="product-details-gallery-area" data-aos="fade-up" data-aos-delay="0">
+                    <!-- Start Large Image -->
+                    <div class="product-large-image product-large-image-horaizontal swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="product-image-large-image img-responsive">
+                                <img src="~/assets/images/product/default/home-1/@Model.Image1" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- End Large Image -->
+                    <!-- Start Thumbnail Image -->
+                    <div class="product-image-thumb product-image-thumb-horizontal swiper-container pos-relative mt-5">
+
+                        <!-- Add Arrows -->
+
+                    </div>
+                    <!-- End Thumbnail Image -->
+                </div>
+            </div>
+            <div class="col-xl-7 col-lg-6">
+                <div class="product-details-content-area product-details--golden" data-aos="fade-up"
+                     data-aos-delay="200">
+                    <!-- Start  Product Details Text Area-->
+                    <div class="product-details-text">
+                        <h4 class="title">@Model.ProductName</h4>
+
+                        <div class="price">@string.Format("{0:N0} VNĐ", Model.Price)</div>
+                        <p>
+                            @Model.Description
+                        </p>
+                    </div> <!-- End  Product Details Text Area-->
+                    <!-- Start Product Variable Area -->
+                    <div class="product-details-variable">
+
+                        <!-- Product Variable Single Item -->
+                        <div class="variable-single-item">
+                            <div class="product-stock">
+                                <span class="product-stock-in">
+                                    <i class="ion-checkmark-circled"></i>
+                                </span> @Model.UnitInStock IN STOCK
+                            </div>
+                        </div>
+                        <!-- Product Variable Single Item -->
+                        <div class="d-flex align-items-center">
+                            <div class="variable-single-item">
+
+                                <form id="addToCartForm">
+                                    <input name="quantity"  min = "1" max="1" value="1" type="number">
+                                </form>
+                            </div>
+                            <div class="product-add-to-cart-btn">
+                                <button class="btn btn-block btn-lg btn-black-default-hover" onclick="addToCart(@Model.ProductID)">
+                                    + Add To Cart
+                                </button>
+                            </div>
+
+                            <script>
+    function addToCart(productId) {
+        var quantity = parseInt($("#addToCartForm input[name='quantity']").val());
+
+        // Send data to the "ThemGioHang" action in the "Cart" controller
+        $.ajax({
+            type: "POST",
+            url: "@Url.Action("ThemGioHang", "GioHang")", 
+            data: {
+                iMasp: productId,
+                strURL: "@Url.Action("GioHang", "GioHang")", 
+            },
+            success: function (data) {
+                // Handle the result
+                console.log(data);
+
+                // After adding to the cart, redirect to the "GioHang" view
+                window.location.href = "@Url.Action("GioHang", "GioHang")";
+            }
+        });
+    }
+                            </script>
+
+
+
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- End Product Details Section -->
+</div>
+</div>

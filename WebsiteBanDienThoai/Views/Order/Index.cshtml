@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebsiteBanDienThoai.Models.Entities.Order>
+
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml"; }
+
+<h2>Order List</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            AccountID
+        </th>
+        <th>
+            Order Date
+        </th>
+        <th>
+            Order Status
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.AccountID)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.OrderDate)
+    </td>
+    <td>
+        @{ if (@item.Status == 0)
+            {
+<h5 style="color:red">Waiting to Confirm </h5> }
+                else if (@item.Status == 1)
+                {
+<h5 style="color:green">Confirmed </h5> }
+                else
+                {
+    <h5 style="color:orangered">Waiting to Confirm</h5> } }
+    </td>
+    <td>
+        <button class="btn-primary">
+            @Html.ActionLink("Detail", "Details", new { id = item.OrderID }, new { @style = "color:white;" })
+        </button>
+
+    </td>
+</tr>
+}
+
+</table>

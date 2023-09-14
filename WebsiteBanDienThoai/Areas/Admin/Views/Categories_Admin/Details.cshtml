@@ -1,0 +1,58 @@
+﻿@model WebsiteBanDienThoai.Models.Entities.Category
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayout.cshtml";
+}
+
+
+<div class="container">
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            <span class="category-label">
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </span>
+        </dt>
+        <dd>
+            <span class="category-name">
+                @Html.DisplayFor(model => model.CategoryName)
+            </span>
+        </dd>
+    </dl>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CategoryID }, new { @class = "btn btn-primary" }) |
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </p>
+</div>
+
+<style>
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+    
+       
+    }
+
+    .dl-horizontal dt {
+        font-weight: bold;
+    }
+
+    .category-label {
+        font-weight: bold;
+        color: #333; /* Màu sắc tên danh mục */
+        font-size: 16px; /* Kích thước font tên danh mục */
+    }
+
+    .category-name {
+        font-size: 25px; /* Kích thước font nổi bật hơn */
+        color: #007bff; /* Màu sắc nổi bật hơn */
+    }
+</style>
+
+
+
+
+
+
+

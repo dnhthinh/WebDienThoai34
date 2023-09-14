@@ -1,0 +1,87 @@
+﻿@model WebsiteBanDienThoai.Models.Entities.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayout.cshtml";
+}
+
+
+
+
+
+<div class="container">
+    <h3 class = "text-white">Are you sure you want to delete this?</h3>
+    <h4 class="text-white">Product</h4>
+    <hr />
+    <ul class="list-unstyled text-white">
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.ProductName):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.ProductName)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Price):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Price)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Description):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Description)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Image1):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Image1)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Image2):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Image2)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Status):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Status)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.UnitInStock):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.UnitInStock)</span>
+        </li>
+        <li>
+            <strong class="text-white">@Html.DisplayNameFor(model => model.Category.CategoryName):</strong>
+            <span class="text-white">@Html.DisplayFor(model => model.Category.CategoryName)</span>
+        </li>
+    </ul>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-danger">Delete</button> |
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+        </div>
+    }
+</div>
+
+<style>
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+       
+    }
+
+    .list-unstyled {
+        list-style: none;
+        padding: 0;
+    }
+
+        .list-unstyled li {
+            margin-bottom: 10px;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        border-color: #dc3545;
+    }
+
+    .text-white {
+        color: #fff; /* Màu trắng cho văn bản */
+    }
+</style>
+

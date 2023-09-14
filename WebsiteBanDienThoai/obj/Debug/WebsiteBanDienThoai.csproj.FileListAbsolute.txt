@@ -1,0 +1,438 @@
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\ApplicationInsights.config
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.dll.config
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Antlr3.Runtime.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.Web.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Newtonsoft.Json.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Owin.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Helpers.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Mvc.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Optimization.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Razor.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebGrease.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.Web.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Helpers.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Mvc.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Optimization.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Razor.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Antlr3.Runtime.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Newtonsoft.Json.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.AssemblyReference.cache
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.CopyComplete
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Buffers.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.Web.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Buffers.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.xml
+C:\Users\ThinhPC\Desktop\BTL LTCSDL WEBSITE BAN DIEN THOAI\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\ApplicationInsights.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.dll.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebsiteBanDienThoai.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csc.exe
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csc.exe.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csc.rsp
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csi.exe
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csi.exe.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\csi.rsp
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.AppContext.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Console.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.IO.Compression.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Net.Http.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.ValueTuple.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\vbc.exe
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\vbc.exe.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\vbc.rsp
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Win32.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\netstandard.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.AppContext.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.Concurrent.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.NonGeneric.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.Specialized.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ComponentModel.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ComponentModel.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Console.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Data.Common.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.Contracts.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.Debug.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.Process.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.StackTrace.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.Tools.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.TraceSource.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.Tracing.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Drawing.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Dynamic.Runtime.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Globalization.Calendars.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Globalization.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Globalization.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.Compression.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.Compression.ZipFile.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.FileSystem.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.IsolatedStorage.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.Pipes.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Linq.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Linq.Expressions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Linq.Parallel.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Linq.Queryable.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Http.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.NameResolution.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.NetworkInformation.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Ping.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Requests.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Security.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Sockets.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.WebHeaderCollection.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.WebSockets.Client.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.WebSockets.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ObjectModel.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Reflection.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Reflection.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Reflection.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Resources.Reader.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Resources.ResourceManager.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Resources.Writer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Handles.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.InteropServices.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Numerics.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Serialization.Json.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Claims.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Cryptography.Csp.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.Principal.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Security.SecureString.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Encoding.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Encoding.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.RegularExpressions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Overlapped.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Tasks.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Thread.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.ThreadPool.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Timer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.ReaderWriter.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.XDocument.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.XmlDocument.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.XmlSerializer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.XPath.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Xml.XPath.XDocument.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Antlr3.Runtime.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Azure.Core.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.SqlServer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\FluentAssertions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Localization.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Options.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.OpenApi.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Newtonsoft.Json.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Owin.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Remotion.Linq.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.Core.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Buffers.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.CodeDom.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.Immutable.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ComponentModel.Annotations.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Data.SqlClient.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Interactive.Async.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.Data.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Http.Formatting.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Numerics.Vectors.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Encodings.Web.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Json.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ValueTuple.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Helpers.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Http.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Http.WebHost.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Mvc.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Optimization.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Razor.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Razor.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebActivatorEx.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\WebGrease.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Antlr3.Runtime.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Azure.Core.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\EntityFramework.SqlServer.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\FluentAssertions.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\FluentAssertions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Localization.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Options.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.OpenApi.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.OpenApi.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Newtonsoft.Json.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Remotion.Linq.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.Swagger.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerGen.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerGen.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerUI.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\Swashbuckle.AspNetCore.SwaggerUI.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Buffers.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.CodeDom.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Collections.Immutable.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Interactive.Async.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Memory.Data.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Net.Http.Formatting.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Numerics.Vectors.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Encodings.Web.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Text.Json.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.ValueTuple.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Helpers.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Http.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Http.WebHost.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Mvc.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Optimization.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.Razor.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\bin\System.Web.WebPages.Razor.xml
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.CopyComplete
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.dll
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.pdb
+C:\Users\ThinhPC\Desktop\WebsiteBanDienThoai\WebsiteBanDienThoai\obj\Debug\WebsiteBanDienThoai.csproj.AssemblyReference.cache

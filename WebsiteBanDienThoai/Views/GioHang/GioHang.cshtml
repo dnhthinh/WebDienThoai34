@@ -1,0 +1,71 @@
+﻿@using WebsiteBanDienThoai.Models;
+@model List<GioHang>
+
+@{ ViewBag.Title = "GioHang";
+                Layout = "~/Views/Shared/_MainLayout.cshtml"; }
+<h2 class=""> SHOPPING CART <i class="fa fa-shopping-cart"></i></h2>
+<br />
+<table class="table-hover table-bordered divGioHang">
+    <tr style="">
+        <th> ID</th>
+
+        <th> Name</th>
+
+        <th> Price</th>
+
+        <th> Quantity</th>
+
+        <th> Total</th>
+    </tr>
+
+
+
+    @foreach (var item in Model)
+    {
+<tr class="font-italic">
+    <td> @item.ProductID</td>
+
+    <td> @item.ProductName</td>
+
+
+    <td>  @String.Format("{0:0,0}", item.Price) VNĐ</td>
+
+    <td> @item.Quantity</td>
+
+    <td>   @String.Format("{0:0,0}", item.ThanhTien) VNĐ</td>
+
+
+</tr>}
+
+
+
+    <tr>
+        <td colspan="6" style="text-align:right">
+
+            @Html.ActionLink("Edit Cart", "SuaGioHang")
+        </td>
+        <td colspan="6" style="text-align:right;color:blue">
+            @using (Html.BeginForm("ThanhToanDonHang", "GioHang", new { @class = "" }))
+            {
+                <input type="hidden" id="isEmptyCart" name="isEmptyCart" value="@(Model.Count == 0 ? "true" : "false")" />
+                <input type="submit" value="Confirm" class="btn-danger" />
+            }
+        </td>
+    </tr>
+</table>
+
+@*Css giỏ hàng*@
+<style type="text/css">
+    .divGioHang {
+        border: 2px solid #000000;
+        margin-right: 10%;
+        font-size: large;
+        color: black;
+    }
+
+        .divGioHang td, .divGioHang th {
+            border: 2px solid #000000;
+            text-align: center;
+            color: black;
+        }
+</style>

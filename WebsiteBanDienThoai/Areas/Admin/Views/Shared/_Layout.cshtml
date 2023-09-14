@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - Your Online Shop</title>
+    <link rel="stylesheet" href="admin.css"> <!-- Link to your admin CSS file -->
+</head>
+<body>
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <h2>Admin Panel</h2>
+        <ul>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Orders</a></li>
+            <li><a href="#">Users</a></li>
+            <!-- Add more menu items as needed -->
+        </ul>
+    </div>
+
+    <!-- Page content -->
+   
+    <div class="content">
+        <!-- Header -->
+        <header>
+            <h1>Welcome, Admin!</h1>
+            <a href="#">Logout</a>
+        </header>
+
+        <!-- Main content -->
+        <main>
+            <!-- Page-specific content goes here -->
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

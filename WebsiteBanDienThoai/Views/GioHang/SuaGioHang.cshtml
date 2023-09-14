@@ -1,0 +1,65 @@
+﻿@using WebsiteBanDienThoai.Models;
+@model List<GioHang>
+
+@{ ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_MainLayout.cshtml"; }
+<center><h2 class="text-info"> SHOPPING CART</h2></center>
+
+<table class="table-bordered font-italic divGioHang">
+    <tr>
+        <th> ID</th>
+
+        <th> Name</th>
+
+        <th> Price</th>
+
+        <th> Quantity</th>
+
+        <th> Total</th>
+    </tr>
+
+
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td> @item.ProductID</td>
+
+    <td> @item.ProductName</td>
+
+    <td>  @String.Format("{0:0,0}", item.Price) VNĐ</td>
+
+    @*Chỉnh sửa giỏ hàng gọi về action CapNhatGioHang*@
+    @using (Html.BeginForm("CapNhatGioHang", "GioHang", new { @iMaSP = item.ProductID }))
+    {
+<td>@Html.TextBox("txtSoLuong", item.Quantity) </td>
+
+                    <td>@String.Format("{0:0,0}", item.ThanhTien) VNĐ</td>
+                                        <td>
+                                            <input type="submit" value="Update" class="btn-secondary" />
+                                            <br />
+                                            @*Xóa giỏ hàng gọi về Action XoaGioHang*@
+                                            <button class="btn-success">@Html.ActionLink("Delete", "XoaGioHang", new { @iMaSP = item.ProductID })</button>
+                                        </td>
+}
+
+</tr>
+}
+</table>
+
+@*Css giỏ hàng*@
+<style type="text/css">
+    .divGioHang {
+        border: 2px solid #000000;
+        margin-right: 10%;
+        font-size: large;
+        color: black;
+    }
+
+        .divGioHang td, .divGioHang th {
+            border: 2px solid #000000;
+            text-align: center;
+            color: black;
+            
+        }
+</style>

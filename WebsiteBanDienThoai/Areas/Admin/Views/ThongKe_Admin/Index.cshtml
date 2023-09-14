@@ -1,0 +1,39 @@
+﻿@model List<WebsiteBanDienThoai.Models.Entities.AspNetUser>
+@{
+    ViewBag.Title = "Danh sách AspNetUser";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GET ALL Asp.Net Users </title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>GET ALL Asp.Net Users </h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Account Name</th>
+                    <th>Email</th>
+                    <!-- Thêm các tiêu đề cột khác tùy theo bảng AspNetUsers -->
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.UserName</td>
+                        <td>@user.Email</td>
+                        <!-- Thêm các dòng dữ liệu khác tùy theo bảng AspNetUsers -->
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

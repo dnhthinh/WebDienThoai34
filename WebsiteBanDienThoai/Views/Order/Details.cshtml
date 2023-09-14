@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebsiteBanDienThoai.Models.Entities.OrderDetail>
+
+
+@{ ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_MainLayout.cshtml"; }
+
+<h2>Order Detail</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Product
+        </th>
+        <th>
+            Quantity
+        </th>
+        <th>
+            Price / Unit
+        </th>
+        <th>
+            Total
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Product.ProductName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Quantity)
+    </td>
+    <td>
+        @String.Format("{0:0,0}", item.Price) VNĐ
+    </td>
+    <td>
+        @String.Format("{0:0,0}", item.Total) VNĐ
+    </td>
+</tr>
+}
+
+</table>
